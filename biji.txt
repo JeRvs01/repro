@@ -1,2 +1,6 @@
 ﻿你好啊
+<<<<<<< HEAD
 sadasd 
+=======
+dsfjsffdsf
+>>>>>>> 6acad97e3adca809b38d703a8c55bec9a74e2fc0
